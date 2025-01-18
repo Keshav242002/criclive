@@ -1,5 +1,5 @@
 Overview
-CricLive is a Flutter-based application that provides live cricket match details, previous match highlights, and upcoming match schedules. It uses the SportsDevi API to fetch real-time cricket data.
+CricLive is a Flutter-based application that provides live cricket match details, previous match highlights, and upcoming match schedules. It uses the SportsDev API to fetch real-time cricket data.
 
 Features
 Live Matches: View live scores, team details, and odds.
